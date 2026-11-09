@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "hopper": {
+      "type": "http",
+      "url": "http://127.0.0.1:42069/mcp",
+      "directTools": true
+    }
+  }
+}
